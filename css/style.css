@@ -1862,18 +1862,18 @@ form label {
     transform: scale(0.5);
     position: relative;
     right: 38px;
-    bottom: 30px;
+    bottom: 40px;
 
   }
 
   .header-class {
     position: relative;
-    bottom: 65px;
+    bottom: 75px;
     right: 30px;
   }
   h1.header-class,h2.header-class{
     position: relative;
-    bottom: 15px;
+    bottom: 20px;
     right: 34px;
   }
 }
